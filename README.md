@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil do GitHub!
 
-Olá, sou [Seu Nome], um entusiasta da programação e apaixonado por tecnologia. Aqui você encontrará alguns dos meus projetos e contribuições para a comunidade de código aberto. Fique à vontade para explorar e contribuir!
+Olá, sou Fábio Canedo Leão, um entusiasta da programação e apaixonado por tecnologia. Aqui você encontrará alguns dos meus projetos e contribuições para a comunidade de código aberto. Fique à vontade para explorar e contribuir!
 
 ## Sobre mim
 
