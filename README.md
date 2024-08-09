@@ -11,7 +11,7 @@ Olá, sou Fábio Canedo Leão, um entusiasta da programação e apaixonado por t
 ## Habilidades
 
 - 💻 Linguagens de programação: Java, C e Python
-- 🛠️ Ferramentas e Tecnologias: Banco de Dados Sql Server, MySql, Srcum, Bootstrap
+- 🛠️ Ferramentas e Tecnologias: Banco de Dados Sql Server, MySql, Srcum, Bootstrap, Angular, Spring Boot, Postman, AWS, PySpark.
 
 ## Projetos Destacados
 
