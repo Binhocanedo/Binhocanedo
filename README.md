@@ -5,7 +5,7 @@ Olá, sou Fábio Canedo Leão, um entusiasta da programação e apaixonado por t
 ## Sobre mim
 
 - 😄 Apelido: Fábio
-- 💼 Profissão: Estagiário 
+- 💼 Profissão: Engenheiro de Software Jr.
 - 🌍 Localização: São Paulo - SP
 
 ## Habilidades
